@@ -1,0 +1,18 @@
+Steps to Download and Install RabbitMQ:
+===============================
+
+Step-1
+--------
+> Downlaod Erlang (https://www.erlang.org/downloads)
+> Install it and set environment path
+
+Step-2
+---------
+> Download RabbitMQ (https://www.rabbitmq.com/docs/download)
+> Install it
+> Run it (Program Files\RabbitMQ Server\rabbitmq_server-4.0.5\sbin\rabbitmq-server.bat)
+> Open url (localhost:15672)
+> username and password is 'guest'
+
+
+
